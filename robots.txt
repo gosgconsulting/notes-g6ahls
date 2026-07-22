@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gosgconsulting.github.io/notes-g6ahls/sitemap.xml
